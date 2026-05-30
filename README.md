@@ -119,11 +119,11 @@ I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring 
 
 <p align="center">
   <a href="https://github.com/dj0012">
-    <img src="https://github-readme-stats.vercel.app/api?username=dj0012&show_icons=true&theme=tokyonight" alt="Dhananjay's GitHub Stats" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dj0012&show_icons=true&theme=tokyonight" alt="Dhananjay's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/dj0012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj0012&layout=compact&theme=tokyonight&hide=html,css" alt="Dhananjay's Top Languages" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dj0012&layout=compact&theme=tokyonight&hide=html,css" alt="Dhananjay's Top Languages" />
   </a>
 </p>
 
