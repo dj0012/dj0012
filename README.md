@@ -1,31 +1,27 @@
 # Dhananjay Kumar (dj0012) - Premium GitHub Profile
 
-<!-- Premium Minimalist Animating Header (Sleek, glowing, and fast-loading) -->
+<!-- Stunning online-rendered waving gradient header (zero local files needed!) -->
 <p align="center">
-  <a href="https://github.com/dj0012">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=44&duration=2000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=%E2%9C%A8+Dhananjay+Kumar+%E2%9C%A8" alt="Dhananjay Kumar" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=8b5cf6&customColorEnd=10b981&height=280&section=header&text=Dhananjay%20Kumar&fontSize=68&fontColor=ffffff&animation=twinkle" alt="Dhananjay Kumar Waving Header" width="100%" />
 </p>
 
 <!-- Dynamic animated typing subheading -->
 <p align="center">
   <a href="https://github.com/dj0012">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Data+Structures+%26+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=50&lines=Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Full-Stack+Web+Developer;Data+Structures+%26+Algorithms" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Sleek, Minimalist Social Connect Badges -->
+<!-- Social Connect Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dhananjay-kumar-280303343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/dhananjay0850/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  &nbsp;
   <a href="https://www.hackerrank.com/profile/dhananjay0850" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
