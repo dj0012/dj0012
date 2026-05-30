@@ -115,12 +115,19 @@ I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring 
 ### 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dj0012&show_icons=true&theme=tokyonight&locale=en" alt="Dhananjay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj0012&layout=compact&theme=tokyonight&hide=html,css" alt="Dhananjay's Top Languages" width="48%" />
+  <a href="https://github.com/dj0012">
+    <img src="https://github-readme-stats.vercel.app/api?username=dj0012&show_icons=true&theme=tokyonight" alt="Dhananjay's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dj0012">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj0012&layout=compact&theme=tokyonight&hide=html,css" alt="Dhananjay's Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dj0012&theme=tokyonight" alt="Dhananjay's Streak Stats" width="97%" />
+  <a href="https://github.com/dj0012">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dj0012&theme=tokyonight" alt="Dhananjay's Streak Stats" />
+  </a>
 </p>
 
 ---
