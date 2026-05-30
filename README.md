@@ -8,7 +8,7 @@
 <!-- Dynamic animated typing subheading -->
 <p align="center">
   <a href="https://github.com/dj0012">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=50&lines=Final-Year+CS+Undergraduate;Full-Stack+Web+Developer;Data+Structures+%26+Algorithms;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=50&lines=Final-Year+CS+Undergraduate;Aspiring+Software+Engineer;Full-Stack+Web+Developer;Data+Structures+%26+Algorithms" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,12 +33,12 @@
 
 ### 💫 About Me
 
-I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring **Full-Stack Software Engineer** who loves turning complex backend logics and database schemas into smooth, user-centric web applications.
+I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring **Software Engineer** dedicated to building polished, secure, and robust digital solutions.
 
-- 🎓 **Academics**: Pursuing a Bachelor's Degree in Computer Science, focusing on secure software systems and optimized algorithms.
-- 💻 **Web Engineering**: Specializing in modern JavaScript stack (React, Node.js, Express) and robust database setups (MySQL).
-- 🧠 **Algorithms**: Enthusiastic about problem-solving, actively sharpening my concepts on LeetCode and HackerRank.
-- ⚡ **Fun Fact**: I enjoy designing database schemas and sketching ER diagrams to optimize data relations!
+- 🎓 **Academics**: Pursuing a Bachelor's Degree in Computer Science, focusing on software engineering, secure systems, and optimized algorithms.
+- 💻 **Web Engineering**: Specializing in React, Node.js, Express, and MongoDB to craft responsive full-stack applications.
+- 🧠 **Algorithms & Core**: Core focus on Java backend development, Object-Oriented Programming (OOP), and Data Structures.
+- ⚙️ **Systems & Workflows**: Proficient with Linux, shell environments, and Git-based collaborative deployments.
 
 ---
 
@@ -57,13 +57,16 @@ I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring 
       <h4>⚙️ Backend & Storage</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Workflows</h4>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
