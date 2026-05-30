@@ -1,5 +1,3 @@
-# Dhananjay Kumar (dj0012) - Premium GitHub Profile
-
 <!-- Stunning online-rendered waving gradient header (zero local files needed!) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=8b5cf6&customColorEnd=10b981&height=280&section=header&text=Dhananjay%20Kumar&fontSize=68&fontColor=ffffff&animation=twinkle" alt="Dhananjay Kumar Waving Header" width="100%" />
