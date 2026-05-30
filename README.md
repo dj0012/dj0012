@@ -133,12 +133,6 @@ I am a passionate **Final-Year Computer Science Undergraduate** and an aspiring 
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
-</p>
-
 <p align="center">
   <sub>Designed with ❤️ by Dhananjay Kumar.</sub>
 </p>
